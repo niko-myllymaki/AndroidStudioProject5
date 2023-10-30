@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="user_name_txt">"User name</string>
+    <string name="password_txt">Password</string>
+    <string name="login_txt">Login</string>
+    <string name="missing_data_error_txt">Missing data!</string>
+    <string name="firstButton_txt">First Button</string>
+    <string name="secondButton_txt">Second Button</string>
+</resources>
