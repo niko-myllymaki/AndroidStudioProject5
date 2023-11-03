@@ -4,6 +4,8 @@
     <string name="password_txt">Password</string>
     <string name="login_txt">Login</string>
     <string name="missing_data_error_txt">Missing data!</string>
-    <string name="firstButton_txt">First Button</string>
-    <string name="secondButton_txt">Second Button</string>
+    <string name="hide">Hide</string>
+    <string name="go_down">Go Down</string>
+    <string name="display">Display</string>
+    <string name="go_up">Go Up</string>
 </resources>
